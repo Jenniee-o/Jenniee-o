@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jenniee-o
+- 👋 Hi, my name is Jennifer
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on projects that will involve data cleaning, data visualization, and analysis
